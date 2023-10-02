@@ -9,7 +9,7 @@ Bluetooth working but i am having a little trouble to connect on macOS Sonoma.
 I also use a SSD with TRIM enabled.
 My acer is stock except for the SSD.
 
-Headphone Jack do a cracking sound when connected, so i use a script on startup.
+Headphone Jack do a cracking sound when connected, so i use a script on my Application folder that run on startup.
 (Jack fix)
 
 My EFI folder contains opencore with picker enabled and verbose mode on.
